@@ -1,9 +1,10 @@
 ## Eaê! Eu sou o Éverton Guile
 
 <div>
-  <img height"20px" src="https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent&include_all_commits=true&cout_ptivate=true">
-  <img height"200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonGuile&layout=compact&langs_count=20&theme=transparent"/>
+  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent&include_all_commits=true&cout_ptivate=true">
+  
 </div>
+<img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonGuile&layout=compact&langs_count=16&theme=transparent"/>
 ![Everton Guile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent)"
 
 - 🔭 Hoje trabalho
