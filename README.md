@@ -55,7 +55,23 @@
 </div>
 
 <div align="center">
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=EvertonGuile&theme=react)](https://github.com/EvertonGuile/evertonguile)
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=EvertonGuile&theme=react)](https://github.com/EvertonGuile/evertonguile.github.io)
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=EvertonGuile&theme=react)](https://github.com/EvertonGuile/Desafio-CampanhaDeSugestoes)
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/EvertonGuile/evertonguile">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile&theme=react" alt="Repositório 1">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/EvertonGuile/evertonguile.github.io">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile.github.io&theme=react" alt="Repositório 2">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/EvertonGuile/Desafio-CampanhaDeSugestoes">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=Desafio-CampanhaDeSugestoes&theme=react" alt="Repositório 3">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
