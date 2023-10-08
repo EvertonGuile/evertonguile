@@ -56,20 +56,23 @@
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <a href="https://github.com/EvertonGuile/evertonguile" style="margin: 10px; width: 200px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile&theme=react" alt="Repositório 1">
+
+
+  <div align="center">
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/EvertonGuile/evertonguile" style="margin: 10px; width: 200px; height: 200px; text-align: center; text-decoration: none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile&theme=react" alt="Repositório 1" style="width: 100%; height: 100%; object-fit: cover;">
+      <p>Repositório 1</p>
     </a>
-    <a href="https://github.com/EvertonGuile/evertonguile.github.io" style="margin: 10px; width: 200px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile.github.io&theme=react" alt="Repositório 2">
+    <a href="https://github.com/EvertonGuile/evertonguile.github.io" style="margin: 10px; width: 200px; height: 200px; text-align: center; text-decoration: none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile.github.io&theme=react" alt="Repositório 2" style="width: 100%; height: 100%; object-fit: cover;">
+      <p>Repositório 2</p>
     </a>
-    <a href="https://github.com/EvertonGuile/Desafio-CampanhaDeSugestoes" style="margin: 10px; width: 200px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=Desafio-CampanhaDeSugestoes&theme=react" alt="Repositório 3">
-    </a>
-    <a href="https://github.com/EvertonGuile/evertonguile" style="margin: 10px; width: 200px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile&theme=react" alt="Repositório 4">
+    <a href="https://github.com/EvertonGuile/Desafio-CampanhaDeSugestoes" style="margin: 10px; width: 200px; height: 200px; text-align: center; text-decoration: none;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=Desafio-CampanhaDeSugestoes&theme=react" alt="Repositório 3" style="width: 100%; height: 100%; object-fit: cover;">
+      <p>Repositório 3</p>
     </a>
   </div>
+</div>
 </div>
 
