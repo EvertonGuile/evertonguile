@@ -47,6 +47,11 @@
 
   ![Snake animation](https://github.com/EvertonGuile/evertonguile/blob/output/github-contribution-grid-snake.svg)
 
+  <div align="center">
+  <img src="https://github.com/EvertonGuile/EvertonGuile/blob/main/github-contribution-grid-snake.svg" alt="Snake Commits">
+  <span id="commit-count">Carregando...</span>
+</div>
+
   [![Teste Cobrinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile)](https://github.com/EvertonGuile/github-readme-stats)
   
 </div>
