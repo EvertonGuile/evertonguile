@@ -47,27 +47,7 @@
 
   ![Snake animation](https://github.com/EvertonGuile/evertonguile/blob/output/github-contribution-grid-snake.svg)
 
-  <div align="center">
-    <img src="https://github.com/EvertonGuile/EvertonGuile/blob/main/github-contribution-grid-snake.svg" alt="Snake Commits">
-    <span id="commit-count">Carregando...</span>
-  </div>
-
-  <script>
-    
-    fetch('https://api.github.com/repos/EvertonGuile/EvertonGuile')
-      .then(response => response.json())
-      .then(data => {
-        
-        const commits = data.commits || 0;
   
-        
-        const commitCount = document.getElementById('commit-count');
-        commitCount.textContent = `Commits: ${commits}`;
-      })
-      .catch(error => console.error(error));
-  </script>
-
-  [![Teste Cobrinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile)](https://github.com/EvertonGuile/github-readme-stats)
   
 </div>
 
