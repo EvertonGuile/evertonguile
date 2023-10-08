@@ -48,9 +48,24 @@
   ![Snake animation](https://github.com/EvertonGuile/evertonguile/blob/output/github-contribution-grid-snake.svg)
 
   <div align="center">
-  <img src="https://github.com/EvertonGuile/EvertonGuile/blob/main/github-contribution-grid-snake.svg" alt="Snake Commits">
-  <span id="commit-count">Carregando...</span>
-</div>
+    <img src="https://github.com/EvertonGuile/EvertonGuile/blob/main/github-contribution-grid-snake.svg" alt="Snake Commits">
+    <span id="commit-count">Carregando...</span>
+  </div>
+
+  <script>
+    // Faça uma solicitação para a API do GitHub para obter informações sobre o repositório
+    fetch('https://api.github.com/repos/EvertonGuile/EvertonGuile')
+      .then(response => response.json())
+      .then(data => {
+        // Obtenha o número de commits do objeto de resposta
+        const commits = data.commits || 0;
+  
+        // Atualize o elemento HTML com o número de commits
+        const commitCount = document.getElementById('commit-count');
+        commitCount.textContent = `Commits: ${commits}`;
+      })
+      .catch(error => console.error(error));
+  </script>
 
   [![Teste Cobrinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile)](https://github.com/EvertonGuile/github-readme-stats)
   
