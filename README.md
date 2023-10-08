@@ -67,6 +67,8 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile.github.io&theme=react" alt="Repositório 2">
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://github.com/EvertonGuile/Desafio-CampanhaDeSugestoes">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=Desafio-CampanhaDeSugestoes&theme=react" alt="Repositório 3">
