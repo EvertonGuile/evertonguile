@@ -53,14 +53,14 @@
   </div>
 
   <script>
-    // Faça uma solicitação para a API do GitHub para obter informações sobre o repositório
+    
     fetch('https://api.github.com/repos/EvertonGuile/EvertonGuile')
       .then(response => response.json())
       .then(data => {
-        // Obtenha o número de commits do objeto de resposta
+        
         const commits = data.commits || 0;
   
-        // Atualize o elemento HTML com o número de commits
+        
         const commitCount = document.getElementById('commit-count');
         commitCount.textContent = `Commits: ${commits}`;
       })
