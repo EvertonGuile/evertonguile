@@ -54,4 +54,4 @@
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=artur-debv&theme=react)](https://github.com/EvertonGuile/evertonguile)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=EvertonGuile&theme=react)](https://github.com/EvertonGuile/evertonguile)
