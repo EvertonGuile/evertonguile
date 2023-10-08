@@ -1,7 +1,7 @@
 ## Eaê! Eu sou o Éverton Guile
 
 <div>
-  <img height"100em" src="https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent&include_all_commits=true&cout_ptivate=true">
+  <img height"20em" src="https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent&include_all_commits=true&cout_ptivate=true">
   <img height"200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonGuile&layout=compact&langs_count=20&theme=dracula"/>
 </div>
 ![Everton Guile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent)"
