@@ -57,25 +57,15 @@
 </div>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/EvertonGuile/evertonguile">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile&theme=react" alt="Repositório 1">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/EvertonGuile/evertonguile.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile.github.io&theme=react" alt="Repositório 2">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/EvertonGuile/Desafio-CampanhaDeSugestoes">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=Desafio-CampanhaDeSugestoes&theme=react" alt="Repositório 3">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <a href="https://github.com/EvertonGuile/evertonguile" style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile&theme=react" alt="Repositório 1">
+    </a>
+    <a href="https://github.com/EvertonGuile/evertonguile.github.io" style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=evertonguile.github.io&theme=react" alt="Repositório 2">
+    </a>
+    <a href="https://github.com/EvertonGuile/Desafio-CampanhaDeSugestoes" style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonGuile&repo=Desafio-CampanhaDeSugestoes&theme=react" alt="Repositório 3">
+    </a>
+  </div>
 </div>
