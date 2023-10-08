@@ -1,6 +1,8 @@
 ## Eaê! Eu sou o Éverton Guile
+
 <div>
-  ![Everton Guile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent)
+  <a href="https://github.com/EvertonGuile">
+  <img height="180em" src="![Everton Guile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent)">
 </div>
 
 - 🔭 Hoje trabalho
