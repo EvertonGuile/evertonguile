@@ -3,9 +3,9 @@
 <div>
   <a href="https://github.com/EvertonGuile/">
   <img height"180em" src="https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent&include_all_commits=true&cout_ptivate=true">
-  
+  <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonGuile&layout=compact&langs_count=16&theme=transparent">
 </div>
-<img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonGuile&layout=compact&langs_count=16&theme=transparent"/>
+
 ![Everton Guile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent)"
 
 - 🔭 Hoje trabalho
