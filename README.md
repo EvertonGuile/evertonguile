@@ -46,6 +46,8 @@
 <div align="center">
 
   ![Snake animation](https://github.com/EvertonGuile/evertonguile/blob/output/github-contribution-grid-snake.svg)
+
+  [![Teste Cobrinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile)](https://github.com/EvertonGuile/github-readme-stats)
   
 </div>
 
