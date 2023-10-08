@@ -6,8 +6,6 @@
   <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonGuile&layout=compact&langs_count=16&theme=transparent">
 </div>
 
-![Everton Guile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonGuile&show_icons=true&theme=transparent)
-
 - 🔭 Hoje trabalho
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
