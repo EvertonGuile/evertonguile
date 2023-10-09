@@ -38,7 +38,10 @@
 </div><br>
 
 <div align="center">
-  <a href="https://evertonguile.github.io/"><img src="https://img.shields.io/badge/GitHub-Visite%20meu%20Portif%C3%B3lio-blue?logo=github">
+  <a href="https://evertonguile.github.io/"><img src="https://img.shields.io/badge/GitHub-Visite%20meu%20Portif%C3%B3lio-blue?logo=github"></a>
+</div>
+
+<div align="center">
   <a href="https://www.youtube.com/channel/UC_L7CW0syWruhdIDvUTpJ_w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/evertinhusilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:evertonpereiraguile@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
